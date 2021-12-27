@@ -1,0 +1,22 @@
+{
+  "name": "imposter-syndrome-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreki/imposter-syndrome-blog.git"
+  },
+  "author": "Andreas Kißler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreki/imposter-syndrome-blog/issues"
+  },
+  "homepage": "https://github.com/andreki/imposter-syndrome-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
