@@ -1,0 +1,21 @@
+{
+  "title": "Imposter Syndrome",
+  "url": "https://example.com/",
+  "language": "de",
+  "description": "Ich schreibe über Dinge, in denen ich mich meiner Meinung nach als Entwickler.",
+  "feed": {
+    "subtitle": "Ich schreibe über Dinge, in denen ich mich meiner Meinung nach als Entwickler.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Andreas Kißler",
+    "email": "andreas@kissler-online.de",
+    "url": "https://example.com/about-me/"
+  }
+}
